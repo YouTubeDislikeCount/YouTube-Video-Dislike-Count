@@ -1,5 +1,5 @@
 # YouTube Video Dislike Count
-In November of 2021, YouTube decided to make the dislike count for videos private. This extension makes it possible to see the dislike count even though YouTube removed it.
+In November 2021, YouTube decided to make the dislike count for videos private. This extension makes it possible to see the dislike count even though YouTube removed it.
 
 ## Usage
 1. Download and install the extension from **<a href="https://youtubedislikecount.github.io/" target="_blank">https://youtubedislikecount.github.io/</a>**
