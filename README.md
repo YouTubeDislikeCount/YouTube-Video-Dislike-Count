@@ -3,6 +3,9 @@ In November 2021, YouTube decided to make the dislike count for videos private. 
 
 This extension is safe to install, and you can confirm that by checking the source code at **<a target="_blank" href="https://github.com/youtubedislikecount/YouTube-Video-Dislike-Count/tree/main/Extension">https://github.com/youtubedislikecount/YouTube-Video-Dislike-Count/tree/main/Extension</a>**.
 
+## Update
+As of 2021/12/13, this project is no longer maintained.
+
 ## Usage
 1. Download and install the extension from **<a href="https://youtubedislikecount.github.io/" target="_blank">https://youtubedislikecount.github.io/</a>**.
 
